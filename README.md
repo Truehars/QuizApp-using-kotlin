@@ -1,3 +1,4 @@
+
 # QuizApp using Kotlin
 
 A simple and interactive Android quiz application built with Kotlin. This app allows users to test their knowledge through multiple-choice questions, providing immediate feedback and a final score upon completion.
@@ -32,3 +33,31 @@ A simple and interactive Android quiz application built with Kotlin. This app al
 
    ```bash
    git clone https://github.com/Truehars/QuizApp-using-kotlin.git
+   ```
+
+2. **Open in Android Studio**:
+
+   - Launch Android Studio.
+   - Click on `Open an existing project`.
+   - Navigate to the cloned repository folder and select it.
+
+3. **Build the Project**:
+
+   - Allow Android Studio to build the project and download necessary dependencies.
+
+4. **Run the App**:
+
+   - Connect your Android device or start an emulator.
+   - Click on the `Run` button or use `Shift + F10` to launch the app.
+
+## APK Download
+
+An APK file (`app-debug.apk`) is available in the repository for direct installation on Android devices. You can download it from the repository's root directory.
+
+## Contributing
+
+Contributions are welcome! If you have suggestions or improvements, feel free to fork the repository and submit a pull request.
+
+## Contact
+
+For any queries or feedback, please open an issue in the repository.

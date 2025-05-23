@@ -1,5 +1,5 @@
 
-# QuizApp using Kotlin
+# QuizApp 
 
 A simple and interactive Android quiz application built with Kotlin. This app allows users to test their knowledge through multiple-choice questions, providing immediate feedback and a final score upon completion.
 
@@ -12,7 +12,7 @@ A simple and interactive Android quiz application built with Kotlin. This app al
 
 ## Technologies Used
 
-- **Kotlin**: Primary programming language for Android development.
+- **Java**&**Kotlin**: Primary programming language for Android development.
 - **Android SDK**: Utilized for building the Android application.
 - **Gradle**: Build automation tool for managing dependencies and project configuration.
 

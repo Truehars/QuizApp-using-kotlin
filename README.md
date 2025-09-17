@@ -1,7 +1,7 @@
 
 # QuizApp 
 
-A simple and interactive Android quiz application built with Kotlin. This app allows users to test their knowledge through multiple-choice questions, providing immediate feedback and a final score upon completion.
+A simple and interactive Android quiz application built with android studio. This app allows users to test their knowledge through multiple-choice questions, providing immediate feedback and a final score upon completion.
 
 ## Features
 
